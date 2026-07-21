@@ -24,21 +24,21 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Working papers, publications, work in progress, and other research.",
+          description: "Click &quot;Abs&quot; to read the abstract, or &quot;PDF&quot; for a current draft where available.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-presentations",
           title: "Presentations",
-          description: "Talks, in reverse chronological order.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Teaching experience.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -85,6 +85,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%63%69%61%72%61%6E.%6D%75%72%70%68%79%31%30@%75%63%64%63%6F%6E%6E%65%63%74.%69%65", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/ciaran-murphy-919855188", "_blank");
         },
       },{
         id: 'social-rss',
