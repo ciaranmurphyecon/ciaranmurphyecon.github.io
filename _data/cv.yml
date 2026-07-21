@@ -66,6 +66,16 @@ cv:
         end_date: 2023
         summary: Full-time Departmental Tutor and Head of Economics Support Centre. Coordinated and delivered tutorials, provided one-to-one tuition to undergraduate and postgraduate students, and acted as Departmental Advisor to the Access Office.
 
+    Publications:
+      - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach"
+        authors:
+          - Dáire Crotty
+          - Ciarán Murphy
+        publisher: Education Economics
+        releaseDate: 2026
+        url: https://doi.org/10.1080/09645292.2026.2688823
+        summary: ""
+
     Working Papers:
       - title: "Building Success: The Effect of On-Campus Housing Expansions on Student Outcomes"
         authors:
@@ -91,16 +101,6 @@ cv:
           - Ciarán Murphy
         publisher: Maynooth University Economics Department Working Paper Series
         releaseDate: 2022
-        summary: ""
-
-    Publications:
-      - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach"
-        authors:
-          - Dáire Crotty
-          - Ciarán Murphy
-        publisher: Education Economics
-        releaseDate: 2026
-        url: https://doi.org/10.1080/09645292.2026.2688823
         summary: ""
 
     Work in Progress:
