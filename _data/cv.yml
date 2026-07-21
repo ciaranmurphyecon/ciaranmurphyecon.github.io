@@ -43,21 +43,21 @@ cv:
         end_date: ""
         summary: Led tutorials and mentored undergraduate and postgraduate students in microeconomics, econometrics, and the use of statistical packages.
         highlights:
-          - "Introduction to Economics (ECON10770)"
-          - "Intermediate Microeconomics (ECON20010)"
-          - "Intermediate Microeconomics II (ECON20180)"
-          - "Principles of Microeconomics (ECON10010)"
-          - "Exploring Economics (ECON10740)"
-          - "MSc Econometrics (ECON41820)"
+          - "Introduction to Economics (ECON10770), Intermediate Microeconomics I (ECON20010) -- Autumn 2023"
+          - "Principles of Microeconomics (ECON10010) -- Spring 2024"
+          - "Econometrics, MSc (ECON42770), Exploring Economics (ECON10740) -- Autumn 2024"
+          - "Intermediate Microeconomics II (ECON20180) -- Spring 2025"
+          - "Econometrics, MSc (ECON42770) -- Autumn 2025"
+          - "Intermediate Microeconomics II (ECON20180), Economics Research Project (ECON30620) -- Spring 2026"
 
       - company: Maynooth University
         position: Lecturer
         location: Kildare, Ireland
         start_date: 2025
-        end_date: 2025
+        end_date: 2026
         highlights:
-          - "Introduction to Quantitative Methods (EC103)"
-          - "Information Economics (EC230)"
+          - "Introduction to Quantitative Methods (EC103Q), Information Economics (EC230) -- Spring 2025"
+          - "Introduction to Quantitative Methods (EC103Q), Behavioural Economics (EC334) -- Spring 2026"
 
       - company: Maynooth University
         position: University Tutor
@@ -71,21 +71,20 @@ cv:
         authors:
           - Ciaran Murphy
         releaseDate: 2025-07-01
-        summary: Job market paper.
+        summary: ""
 
-      - title: "Socioeconomic Status and STEM Enrolment: A Machine-Learning Approach"
+      - title: "The Origins of the STEM Gender Gap: Evidence from an Analysis of Secondary School Subject Selection"
+        authors:
+          - Dáire Crotty
+          - Ciaran Murphy
+        releaseDate: 2026
+        summary: ""
+
+      - title: "Lockdowns and Conspiracy Theories: Evidence from European Policy Variation"
         authors:
           - Ciaran Murphy
-          - Dáire Crotty
-        releaseDate: 2025
-        summary: Revise & resubmit at Education Economics.
-
-      - title: "The Origins of the STEM Gender Gap: Evidence from Machine Learning Analysis of Secondary School Subject Selection"
-        authors:
-          - Ciaran Murphy
-          - Dáire Crotty
-        releaseDate: 2025
-        summary: Draft available on request.
+        releaseDate: 2026-07-14
+        summary: ""
 
       - title: "The Effect of School Diversity on Academic Performance"
         authors:
@@ -94,11 +93,29 @@ cv:
         releaseDate: 2022
         summary: ""
 
+    Publications:
+      - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach"
+        authors:
+          - Dáire Crotty
+          - Ciaran Murphy
+        publisher: Education Economics
+        releaseDate: 2026
+        url: https://doi.org/10.1080/09645292.2026.2688823
+        summary: ""
+
     Work in Progress:
       - title: "The Other Side of the Game: Coaching Allocation and Player Effort in Football Academies"
         authors:
           - Ciaran Murphy
         summary: Draft available soon.
+
+    Other Research:
+      - title: "Exploring the Gender Pay Gap in Early Adulthood: A Longitudinal Analysis Using Growing Up in Ireland Data"
+        authors:
+          - Ciaran Murphy
+        publisher: Department of Children, Disability and Equality
+        url: https://www.gov.ie/en/department-of-children-disability-and-equality/publications/exploring-the-gender-pay-gap-in-early-adulthood-a-longitudinal-analysis-using-growing-up-in-ireland-data/
+        summary: Commissioned research report, not an academic publication.
 
     Grants and Awards:
       - title: School of Economics Scholarship
