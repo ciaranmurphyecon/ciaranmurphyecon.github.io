@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Economics, University College Dublin
 
 profile:
   align: right

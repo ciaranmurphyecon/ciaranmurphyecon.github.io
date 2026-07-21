@@ -2,12 +2,11 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Teaching experience.
 nav: true
 nav_order: 3
 ---
 
-I have taught as a lecturer and as a tutor/TA at Maynooth University and University College Dublin since 2022, including a year as a full-time University Tutor.
+I have been a tutor/TA at Maynooth University (2022–2023) and University College Dublin (2023–present), and a lecturer at Maynooth University (Spring 2025 and Spring 2026).
 
 ## Lecturer
 

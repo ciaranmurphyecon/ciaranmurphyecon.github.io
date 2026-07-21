@@ -2,7 +2,6 @@
 layout: page
 permalink: /presentations/
 title: Presentations
-description: Talks, in reverse chronological order.
 nav: true
 nav_order: 2
 ---

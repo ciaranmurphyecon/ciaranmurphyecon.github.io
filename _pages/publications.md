@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Research
-description: Working papers, publications, work in progress, and other research.
+description: Click "Abs" to read the abstract, or "PDF" for a current draft where available.
 nav: true
 nav_order: 1
 ---
@@ -24,7 +24,7 @@ nav_order: 1
 <h4>Work in Progress</h4>
 {% bibliography --query @misc --group_by none %}
 
-<h4>Other Research</h4>
+<h4>Reports</h4>
 {% bibliography --query @techreport --group_by none %}
 
 </div>

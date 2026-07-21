@@ -3,6 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/ciaran_murphy_cv.pdf # path to your CV PDF file
 email: ciaran.murphy10@ucdconnect.ie # your email address
+linkedin_username: ciaran-murphy-919855188
 rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: # add your Google Scholar ID here once you have a profile set up
 # TODO: add your Google Scholar / RePEc-IDEAS / SSRN profile links once created (see about.md too)
