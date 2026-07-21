@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Economics, University College Dublin
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: "" # add your photo to assets/img/ and put the filename here, e.g. prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Economics</p>
