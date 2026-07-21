@@ -1,8 +1,7 @@
 ---
 layout: course
-title: Tutor / Teaching Assistant
-description: Introduction to Economics (ECON10770) and Intermediate Microeconomics I (ECON20010).
-instructor: Ciaran Murphy
+title: Tutor / TA
+description: Introduction to Economics (ECON10770)<br>Intermediate Microeconomics I (ECON20010)
 year: 2023
 term: Autumn
 location: University College Dublin

@@ -1,8 +1,7 @@
 ---
 layout: course
 title: Lecturer
-description: Introduction to Quantitative Methods (EC103Q) and Behavioural Economics (EC334).
-instructor: Ciaran Murphy
+description: Introduction to Quantitative Methods (EC103Q)<br>Behavioural Economics (EC334)
 year: 2026
 term: Spring
 location: Maynooth University

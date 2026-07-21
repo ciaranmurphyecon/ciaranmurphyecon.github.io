@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Ciaran
+first_name: Ciarán
 middle_name: ""
 last_name: Murphy
 contact_note: >
@@ -341,7 +341,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Murphy]
-  first_name: [Ciaran]
+  first_name: [Ciarán, Ciaran]
 
   style: apa
   locale: en

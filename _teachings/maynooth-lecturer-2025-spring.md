@@ -1,8 +1,7 @@
 ---
 layout: course
 title: Lecturer
-description: Introduction to Quantitative Methods (EC103Q) and Information Economics (EC230).
-instructor: Ciaran Murphy
+description: Introduction to Quantitative Methods (EC103Q)<br>Information Economics (EC230)
 year: 2025
 term: Spring
 location: Maynooth University

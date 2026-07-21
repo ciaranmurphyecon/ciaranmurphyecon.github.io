@@ -1,8 +1,7 @@
 ---
 layout: course
-title: Tutor / Teaching Assistant
-description: Econometrics, MSc (ECON42770).
-instructor: Ciaran Murphy
+title: Tutor / TA
+description: Econometrics, MSc (ECON42770)
 year: 2025
 term: Autumn
 location: University College Dublin

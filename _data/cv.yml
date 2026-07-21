@@ -1,13 +1,13 @@
 cv:
-  name: Ciaran Murphy
+  name: Ciarán Murphy
   label: PhD Candidate in Economics
   email: ciaran.murphy10@ucdconnect.ie
   location: Dublin, Ireland
   image: ""
   summary: >
-    PhD candidate in Economics at University College Dublin, specialising in applied
-    microeconomics with expertise in causal inference methods. My research focuses on
-    the intersection of labour and education economics. Proficient in R, Stata, and Gretl.
+    PhD candidate in Economics at University College Dublin. My research is in the
+    economics of education, using quasi-experimental methods and machine learning.
+    Proficient in R, Stata, and Gretl.
 
   sections:
     Education:
@@ -69,26 +69,26 @@ cv:
     Working Papers:
       - title: "Building Success: The Effect of On-Campus Housing Expansions on Student Outcomes"
         authors:
-          - Ciaran Murphy
+          - Ciarán Murphy
         releaseDate: 2025-07-01
         summary: ""
 
       - title: "The Origins of the STEM Gender Gap: Evidence from an Analysis of Secondary School Subject Selection"
         authors:
           - Dáire Crotty
-          - Ciaran Murphy
+          - Ciarán Murphy
         releaseDate: 2026
         summary: ""
 
       - title: "Lockdowns and Conspiracy Theories: Evidence from European Policy Variation"
         authors:
-          - Ciaran Murphy
+          - Ciarán Murphy
         releaseDate: 2026-07-14
         summary: ""
 
       - title: "The Effect of School Diversity on Academic Performance"
         authors:
-          - Ciaran Murphy
+          - Ciarán Murphy
         publisher: Maynooth University Economics Department Working Paper Series
         releaseDate: 2022
         summary: ""
@@ -97,7 +97,7 @@ cv:
       - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach"
         authors:
           - Dáire Crotty
-          - Ciaran Murphy
+          - Ciarán Murphy
         publisher: Education Economics
         releaseDate: 2026
         url: https://doi.org/10.1080/09645292.2026.2688823
@@ -106,16 +106,17 @@ cv:
     Work in Progress:
       - title: "The Other Side of the Game: Coaching Allocation and Player Effort in Football Academies"
         authors:
-          - Ciaran Murphy
+          - Ciarán Murphy
         summary: Draft available soon.
 
     Other Research:
       - title: "Exploring the Gender Pay Gap in Early Adulthood: A Longitudinal Analysis Using Growing Up in Ireland Data"
         authors:
-          - Ciaran Murphy
+          - Dáire Crotty
+          - Ciarán Murphy
         publisher: Department of Children, Disability and Equality
         url: https://www.gov.ie/en/department-of-children-disability-and-equality/publications/exploring-the-gender-pay-gap-in-early-adulthood-a-longitudinal-analysis-using-growing-up-in-ireland-data/
-        summary: Commissioned research report, not an academic publication.
+        summary: Commissioned research report for the Department of Children, Disability and Equality.
 
     Grants and Awards:
       - title: School of Economics Scholarship

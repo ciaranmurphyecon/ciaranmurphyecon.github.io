@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi, I'm Ciaran, a PhD candidate in Economics at University College Dublin (UCD). My research is mainly in the economics of education, using quasi-experimental methods (differencing designs, difference-in-differences) and machine learning to study questions such as how school subject choices shape the STEM gender gap and how on-campus housing supply affects student outcomes. I also work on related topics in applied microeconomics, including the economics of misinformation and sports economics.
+Hi, I'm Ciarán, a PhD candidate in Economics at University College Dublin (UCD). My research is in the economics of education, using quasi-experimental methods and machine learning to study questions such as how school subject choices shape the STEM gender gap and how on-campus housing supply affects student outcomes.
 
 Previously, I completed an MSc in Economics at Maynooth University (First Class Honours) and a Bachelor of Business Studies at Dublin City University (First Class Honours).
 

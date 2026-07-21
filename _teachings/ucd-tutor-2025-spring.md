@@ -1,8 +1,7 @@
 ---
 layout: course
-title: Tutor / Teaching Assistant
-description: Intermediate Microeconomics II (ECON20180).
-instructor: Ciaran Murphy
+title: Tutor / TA
+description: Intermediate Microeconomics II (ECON20180)
 year: 2025
 term: Spring
 location: University College Dublin

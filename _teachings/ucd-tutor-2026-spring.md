@@ -1,8 +1,7 @@
 ---
 layout: course
-title: Tutor / Teaching Assistant
-description: Intermediate Microeconomics II (ECON20180) and Economics Research Project (ECON30620).
-instructor: Ciaran Murphy
+title: Tutor / TA
+description: Intermediate Microeconomics II (ECON20180)<br>Economics Research Project (ECON30620)
 year: 2026
 term: Spring
 location: University College Dublin

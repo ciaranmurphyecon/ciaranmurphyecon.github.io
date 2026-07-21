@@ -1,8 +1,7 @@
 ---
 layout: course
-title: Tutor / Teaching Assistant
-description: Principles of Microeconomics (ECON10010).
-instructor: Ciaran Murphy
+title: Tutor / TA
+description: Principles of Microeconomics (ECON10010)
 year: 2024
 term: Spring
 location: University College Dublin

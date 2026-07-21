@@ -2,7 +2,6 @@
 layout: course
 title: University Tutor
 description: Full-time Departmental Tutor, delivering and coordinating tutorials for groups ranging from one-to-one up to over a hundred students.
-instructor: Ciaran Murphy
 year: 2022
 term: 2023
 location: Maynooth University
