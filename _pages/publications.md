@@ -15,16 +15,16 @@ nav_order: 1
 
 <div class="publications">
 
-<h2>Working Papers</h2>
-{% bibliography --query @unpublished %}
+<h4>Working Papers</h4>
+{% bibliography --query @unpublished --group_by none %}
 
-<h2>Publications</h2>
-{% bibliography --query @article %}
+<h4>Publications</h4>
+{% bibliography --query @article --group_by none %}
 
-<h2>Work in Progress</h2>
-{% bibliography --query @misc %}
+<h4>Work in Progress</h4>
+{% bibliography --query @misc --group_by none %}
 
-<h2>Other Research</h2>
-{% bibliography --query @techreport %}
+<h4>Other Research</h4>
+{% bibliography --query @techreport --group_by none %}
 
 </div>
