@@ -13,7 +13,6 @@ cv:
     Education:
       - institution: University College Dublin
         location: Dublin, Ireland
-        url: https://www.ucd.ie/
         area: Economics
         studyType: PhD
         start_date: 2023
@@ -21,7 +20,6 @@ cv:
 
       - institution: Maynooth University
         location: Kildare, Ireland
-        url: https://www.maynoothuniversity.ie/
         area: Economics
         studyType: MSc, First Class Honours (1:1)
         start_date: 2021
@@ -29,13 +27,62 @@ cv:
 
       - institution: Dublin City University
         location: Dublin, Ireland
-        url: https://www.dcu.ie/
         area: Business Studies
         studyType: Bachelor of Business Studies, First Class Honours (1:1)
         start_date: 2017
         end_date: 2021
 
-    Experience:
+    Research:
+      - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach (with Dáire Crotty)"
+        authors:
+          - Ciarán Murphy
+        publisher: Education Economics
+        releaseDate: 2026
+        url: https://doi.org/10.1080/09645292.2026.2688823
+        summary: ""
+
+      - title: "Building Success: The Effect of On-Campus Housing Expansions on Student Outcomes"
+        authors:
+          - Ciarán Murphy
+        releaseDate: 2026
+        url: /assets/pdf/building_success_jmp.pdf
+        summary: Working paper.
+
+      - title: "The Origins of the STEM Gender Gap: Evidence from an Analysis of Secondary School Subject Selection (with Dáire Crotty)"
+        authors:
+          - Ciarán Murphy
+        releaseDate: 2025
+        url: /assets/pdf/origins_stem_gender_gap.pdf
+        summary: Working paper.
+
+      - title: "Lockdowns and Conspiracy Theories: Evidence from European Policy Variation"
+        authors:
+          - Ciarán Murphy
+        releaseDate: 2026-07-14
+        url: /assets/pdf/lockdowns_conspiracy_theories.pdf
+        summary: Working paper.
+
+      - title: "The Effect of School Diversity on Academic Performance"
+        authors:
+          - Ciarán Murphy
+        publisher: Maynooth University Economics Department Working Paper Series
+        releaseDate: 2022
+        summary: Working paper.
+
+      - title: "Exploring the Gender Pay Gap in Early Adulthood: A Longitudinal Analysis Using Growing Up in Ireland Data (with Dáire Crotty)"
+        authors:
+          - Ciarán Murphy
+        publisher: Department of Children, Disability and Equality
+        releaseDate: 2026
+        url: https://www.gov.ie/en/department-of-children-disability-and-equality/publications/exploring-the-gender-pay-gap-in-early-adulthood-a-longitudinal-analysis-using-growing-up-in-ireland-data/
+        summary: Commissioned research report.
+
+      - title: "The Other Side of the Game: Coaching Allocation and Player Effort in Football Academies"
+        authors:
+          - Ciarán Murphy
+        summary: Work in progress -- draft available soon.
+
+    Teaching Experience:
       - company: University College Dublin
         position: Tutor / Teaching Assistant
         location: Dublin, Ireland
@@ -66,6 +113,7 @@ cv:
         end_date: 2023
         summary: Full-time Departmental Tutor and Head of Economics Support Centre. Coordinated and delivered tutorials, provided one-to-one tuition to undergraduate and postgraduate students, and acted as Departmental Advisor to the Access Office.
 
+    Professional Activities:
       - company: School of Economics, UCD
         position: Research & Reading Group Organiser
         start_date: 2024
@@ -81,56 +129,6 @@ cv:
         start_date: 2022
         end_date: 2023
         summary: Also 2025.
-
-    Publications:
-      - title: "Socioeconomic status and enrolment in science and maths: a machine-learning approach"
-        authors:
-          - Dáire Crotty
-          - Ciarán Murphy
-        publisher: Education Economics
-        releaseDate: 2026
-        url: https://doi.org/10.1080/09645292.2026.2688823
-        summary: ""
-
-      - title: "Building Success: The Effect of On-Campus Housing Expansions on Student Outcomes"
-        authors:
-          - Ciarán Murphy
-        releaseDate: 2026
-        summary: Working paper.
-
-      - title: "The Origins of the STEM Gender Gap: Evidence from an Analysis of Secondary School Subject Selection"
-        authors:
-          - Dáire Crotty
-          - Ciarán Murphy
-        releaseDate: 2025
-        summary: Working paper.
-
-      - title: "Lockdowns and Conspiracy Theories: Evidence from European Policy Variation"
-        authors:
-          - Ciarán Murphy
-        releaseDate: 2026-07-14
-        summary: Working paper.
-
-      - title: "The Effect of School Diversity on Academic Performance"
-        authors:
-          - Ciarán Murphy
-        publisher: Maynooth University Economics Department Working Paper Series
-        releaseDate: 2022
-        summary: Working paper.
-
-      - title: "Exploring the Gender Pay Gap in Early Adulthood: A Longitudinal Analysis Using Growing Up in Ireland Data"
-        authors:
-          - Dáire Crotty
-          - Ciarán Murphy
-        publisher: Department of Children, Disability and Equality
-        releaseDate: 2026
-        url: https://www.gov.ie/en/department-of-children-disability-and-equality/publications/exploring-the-gender-pay-gap-in-early-adulthood-a-longitudinal-analysis-using-growing-up-in-ireland-data/
-        summary: Commissioned research report.
-
-      - title: "The Other Side of the Game: Coaching Allocation and Player Effort in Football Academies"
-        authors:
-          - Ciarán Murphy
-        summary: Work in progress -- draft available soon.
 
     Awards:
       - title: School of Economics Scholarship
@@ -162,6 +160,9 @@ cv:
 
       - name: Irish
         summary: Advanced
+
+      - name: Spanish
+        summary: Beginner
 
     Interests:
       - name: Research Interests
