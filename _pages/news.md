@@ -12,6 +12,7 @@ nav_order: 2
 
 ## Presentations
 
+- **September 2026** — EDGE Jamboree, Munich
 - **May 2026** — Irish Economic Association Conference, Tipperary
 - **April 2026** — Research & Reading Group, UCD
 - **April 2026** — Leuven Economics of Education Research Conference, Leuven
