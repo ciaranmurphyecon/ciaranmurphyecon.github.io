@@ -8,7 +8,6 @@ nav_order: 2
 
 ## Upcoming
 
-- **September 2026** — EDGE Jamboree, Munich
 - **November 2026** — Growing Up in Ireland Annual Conference, Dublin
 
 ## Presentations
