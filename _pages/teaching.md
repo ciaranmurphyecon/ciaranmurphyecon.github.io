@@ -17,6 +17,7 @@ I have been a tutor/TA at Maynooth University (2022–2023) and University Colle
 
 ## Tutor / TA
 
+- **ECON42770** Econometrics, MSc, University College Dublin, Autumn 2026
 - **ECON20180** Intermediate Microeconomics II, University College Dublin, Spring 2026
 - **ECON30620** Economics Research Project, University College Dublin, Spring 2026
 - **ECON42770** Econometrics, MSc, University College Dublin, Autumn 2025
