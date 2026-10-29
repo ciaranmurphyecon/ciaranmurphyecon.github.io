@@ -9,6 +9,7 @@ nav_order: 2
 ## Upcoming
 
 - **November 2026** — Growing Up in Ireland Annual Conference, Dublin
+- **November 2026** — BeNA Labor and Education Economics Workshop, Berlin
 
 ## Presentations
 
