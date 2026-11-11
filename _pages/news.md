@@ -8,11 +8,11 @@ nav_order: 2
 
 ## Upcoming
 
-- **November 2026** — Growing Up in Ireland Annual Conference, Dublin
 - **November 2026** — BeNA Labor and Education Economics Workshop, Berlin
 
 ## Presentations
 
+- **November 2026** — Growing Up in Ireland Annual Conference, Dublin
 - **September 2026** — EDGE Jamboree, Munich
 - **May 2026** — Irish Economic Association Conference, Tipperary
 - **April 2026** — Research & Reading Group, UCD
