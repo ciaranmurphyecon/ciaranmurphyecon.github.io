@@ -70,7 +70,7 @@ jobs:
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.3" # series, not a patch: pinned patches (e.g. 3.3.5) are missing on newer runner images
           bundler-cache: true
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
